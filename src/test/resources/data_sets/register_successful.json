@@ -1,0 +1,11 @@
+{
+  "register_successful": {
+    "email": "eve.holt@reqres.in",
+    "password": "pistol"
+  },
+
+  "register_unsuccessful": {
+    "email": "eve.holt@reqres.in",
+    "password": ""
+  }
+}

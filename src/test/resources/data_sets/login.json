@@ -1,0 +1,11 @@
+{
+  "login_successful": {
+    "email": "eve.holt@reqres.in",
+    "password": "cityslicka"
+  },
+
+  "login_unsuccessful": {
+    "email": "peter@klaven",
+    "password": ""
+  }
+}
